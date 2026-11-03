@@ -1,0 +1,7 @@
+node_modules/
+.compiled/
+.tool-results/
+assets/
+resources/
+*.log
+.DS_Store

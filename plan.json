@@ -1,0 +1,27 @@
+{
+  "schemaVersion": 3,
+  "planId": "arcade-arena-prototype",
+  "revision": 1,
+  "title": "機動競技場：鋼鐵對決（Arcade Arena Prototype）",
+  "genreId": "Action",
+  "oneLiner": "操控懸浮機甲在立體競技場中強制鎖定對手：用推進器飛行、衝刺取消收招，以光束步槍與突進斬擊壓制敵機，把對手的血條先打光。",
+  "feelStatement": "高速、華麗、節奏緊湊的街機對戰手感：推進槽的消耗與過熱風險逼你持續做出取捨，鎖定與取消機制讓每一次衝刺都是攻守轉換的節拍點。",
+  "visualPresetId": "stylized-toon",
+  "targetPlatforms": [
+    "web",
+    "mobile"
+  ],
+  "needsCinematic": false,
+  "feel": {
+    "tone": "energetic",
+    "camera": "dynamic",
+    "sessionLength": "standard",
+    "difficulty": "normal"
+  },
+  "ui": {
+    "lookId": "cartoon",
+    "direction": "Keep objectives and moment-to-moment feedback readable without covering play."
+  },
+  "assetSlots": [],
+  "notes": ""
+}

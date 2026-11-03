@@ -1,0 +1,13 @@
+{
+  "private": true,
+  "type": "module",
+  "imports": {
+    "#project/assets/*": "./assets/*"
+  },
+  "scripts": {
+    "test": "tsx --test \"unit_test/**/*.test.ts\""
+  },
+  "devDependencies": {
+    "tsx": "^4.20.0"
+  }
+}
